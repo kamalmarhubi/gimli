@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DebugStr","The `DebugStr` struct represents the DWARF strings found in the `.debug_str` section."],["DebugStrOffset","An offset into the `.debug_str` section."]]});
